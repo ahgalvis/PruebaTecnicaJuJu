@@ -1,4 +1,4 @@
-PruebaTecnicaJuJu
+PruebaTecnicaJuJu 
 Este es un proyecto de ejemplo que implementa una API RESTful para la gestión de libros y usuarios utilizando Node.js, Express y Sequelize.
 
 Requisitos
